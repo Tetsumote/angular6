@@ -1,3 +1,7 @@
+# Working project
+
+https://tetsumote.github.io/angular6/
+
 # Ng6Proj
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
