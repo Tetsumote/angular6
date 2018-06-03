@@ -12,6 +12,7 @@ import { DetailsComponent } from './details/details.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HttpModule } from '@angular/http';
 import { DataService } from './data.service';//add DataService to providers
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 
 
@@ -28,6 +29,7 @@ import { DataService } from './data.service';//add DataService to providers
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
+    BrowserAnimationsModule
   ],
   providers: [DataService],
   bootstrap: [AppComponent]
